@@ -1,0 +1,4 @@
+﻿  func.cpp
+C:\Users\Anton\source\repos\progaEkz10-2\func.cpp(18,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\progaEkz10-2\func.cpp(19,30): warning C4244: +=: преобразование "double" в "ll", возможна потеря данных
+  progaEkz10-2.vcxproj -> C:\Users\Anton\source\repos\progaEkz10-2\Debug\progaEkz10-2.exe
